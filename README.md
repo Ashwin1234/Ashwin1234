@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Database systems by prof Diana Diaz
 - 👯 I’m looking to collaborate on any interesting full stack projects
 - 📫 How to reach me: email me - ashwinsrivatsab@gmail.com or asriva36@uic.edu
--                     Send me connection on [linkedin](https://www.linkedin.com/in/ashwin-bhaskar-srivatsa-3ab953122/) let us chat
+                       Send me connection on [linkedin](https://www.linkedin.com/in/ashwin-bhaskar-srivatsa-3ab953122/) let us chat
 - 😄 Pronouns:  He/His/Him
 - ⚡ Fun fact: Chicago really has hot summers
 
