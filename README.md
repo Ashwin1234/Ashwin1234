@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Chicago really has hot summers
 
 
-### Technologies and tools
+### Tech stack
 ![](https://img.shields.io/badge/code-Java-green)
 ![](https://img.shields.io/badge/code-python-green)
 ![](https://img.shields.io/badge/code-JavaScript-green)
@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 ### Github stats
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwin1234&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin1234&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin1234&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Certifications
 [TensorFlow 2](https://www.coursera.org/specializations/tensorflow2-deeplearning) <br>
 [PGP Machine Learning](https://www.mygreatlearning.com/us/artificial-intelligence/courses/advanced-artificial-intelligence-machine-learning-online-course?arz=1)
+
 
