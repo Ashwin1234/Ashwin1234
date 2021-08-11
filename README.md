@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 
 ### Technologies and tools
-[![Website]https://img.shields.io/badge/Tools-Java-green]
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
