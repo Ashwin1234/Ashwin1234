@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 
 
 ### Technologies and tools
-![](https://img.shields.io/badge/Tools-Java-green)
-
+![](https://img.shields.io/badge/code-Java-green)
+![](https://img.shields.io/badge/code-python-green)
+![](https://img.shields.io/badge/code-JavaScript-green)
+![](https://img.shields.io/badge/code-C-green)
+![](https://img.shields.io/badge/framework-SpringBoot-green)
+![](https://img.shields.io/badge/framework-React-green)
+![](https://img.shields.io/badge/framework-Flask-green)
+![](https://img.shields.io/badge/Concepts-Machine Learning-green)
+![](https://img.shields.io/badge/Tools-Git-green)
+![](https://img.shields.io/badge/Tools-AWS-green)
