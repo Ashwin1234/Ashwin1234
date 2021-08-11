@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 
 ### Technologies and tools
-[![](https://img.shields.io/badge/Tools-Java-green)
+![](https://img.shields.io/badge/Tools-Java-green)
 
