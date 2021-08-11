@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Concepts-MachineLearning-red)
 ![](https://img.shields.io/badge/Tools-Git-orange)
 ![](https://img.shields.io/badge/Tools-AWS-orange)
-![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-AWS-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
