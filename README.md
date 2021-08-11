@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [PGP Machine Learning](https://www.mygreatlearning.com/us/artificial-intelligence/courses/advanced-artificial-intelligence-machine-learning-online-course?arz=1)
 
 ### What i am listening right now
-[![spotify-github-profile](https://open.spotify.com/playlist/37i9dQZF1DWXpyNlpWQwux?si=4cc29bbb726c455b)](https://open.spotify.com/playlist/37i9dQZF1DWXpyNlpWQwux?si=e3f8e07de8984a12)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&redirect=true)
