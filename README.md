@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ashwin
 
 - 🔭 I’m currently working on Machine Learning and Web dev projects
-- 🌱 I have currently enrolled for Statistical NLP by Natalie Parde and Deep Learning for NLP by Cornelia Caragia
+- 🌱 I have currently enrolled for (CS 521) Statistical NLP by Natalie Parde and (CS 533) Deep Learning for NLP by Cornelia Caragia
 - 👯 I’m looking to collaborate on any interesting full stack projects
 - 📫 How to reach me: email me - ashwinsrivatsab@gmail.com or asriva36@uic.edu
                        Send me connection on [linkedin](https://www.linkedin.com/in/ashwin-bhaskar-srivatsa-3ab953122/) let us chat
