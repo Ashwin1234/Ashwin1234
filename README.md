@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Ashwin
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning and Web dev projects
-- 🌱 I have currently enrolled for NLP by Natalie Parde and Data mining by Bing Liu 
+- 🌱 I have currently enrolled for Statistical NLP by Natalie Parde and Deep Learning for NLP by Cornelia Caragia
 - 👯 I’m looking to collaborate on any interesting full stack projects
 - 📫 How to reach me: email me - ashwinsrivatsab@gmail.com or asriva36@uic.edu
                        Send me connection on [linkedin](https://www.linkedin.com/in/ashwin-bhaskar-srivatsa-3ab953122/) let us chat
